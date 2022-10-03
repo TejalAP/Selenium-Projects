@@ -23,3 +23,4 @@ This can be done by adding this line initially in the code:-
 System.setProperty("webdriver.chrome.driver", "local/location/of/chromedriver");
 You can use FirefoxDriver or IEDriver alternatively if you want to run automation test on browser other than Chrome. Here, tests are written for Chrome.
 5. Add TestNG library to the project. If the library is not available by default in your IDE, you need to install it. It is usually there in NetBeans by default. In Eclipse, you may need to install it by following Help -> Add plugin / Install -> Add repository -> TestNG
+and then you are done
